@@ -1,0 +1,2 @@
+# PocoPhoto_jQuery
+这是一个用nodejs搭建的后台服务器，你需要装好express这些nodemodule，以及将数据导入MySQL数据库，这个炫酷的页面才能正常运行
